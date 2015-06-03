@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<name>MARPLOT Export</name>
+	<Style id="temporary_layer_graphics">
+		<IconStyle>
+			<color>ffffffff</color>
+			<scale>1.000000</scale>
+			<Icon>
+				<href>0000000000000212.png</href>
+			</Icon>
+			<hotSpot>
+				<x>0.500000</x>
+				<y>0.500000</y>
+				<xunits>fraction</xunits>
+				<yunits>fraction</yunits>
+			</hotSpot>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Temporary Layer</name>
+		<open>1</open>
+		<Folder>
+			<name>User's Map</name>
+			<open>1</open>
+			<Placemark>
+				<name/>
+				<description><![CDATA[these are the object-specific notes<div><br></div>]]></description>
+				<Style>
+					<IconStyle>
+						<color>ffffffff</color>
+						<scale>1.000000</scale>
+						<Icon>
+							<href>0000000000000212.png</href>
+						</Icon>
+						<hotSpot>
+							<x>0.500000</x>
+							<y>0.500000</y>
+							<xunits>fraction</xunits>
+							<yunits>fraction</yunits>
+						</hotSpot>
+					</IconStyle>
+				</Style>
+				<ExtendedData>
+					<Data name="MARPLOT_ID">
+						<value>D1850C1B15610001</value>
+					</Data>
+					<Data name="NAME">
+						<value/>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-120.643,47.2853,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>fred</name>
+				<Style>
+					<LineStyle>
+						<color>ff000000</color>
+						<width>1</width>
+					</LineStyle>
+				</Style>
+				<ExtendedData>
+					<Data name="MARPLOT_ID">
+						<value>D1936468F1930001</value>
+					</Data>
+					<Data name="NAME">
+						<value>fred</value>
+					</Data>
+				</ExtendedData>
+				<LineString>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>-120.539717,46.992219,0.0 -120.538580,46.992980,0.0 -120.537851,46.992907,0.0 -120.537207,46.993478,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name/>
+				<Style>
+					<LineStyle>
+						<color>ff009900</color>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<ExtendedData>
+					<Data name="MARPLOT_ID">
+						<value>D19373D8A0FF0001</value>
+					</Data>
+					<Data name="NAME">
+						<value/>
+					</Data>
+				</ExtendedData>
+				<LineString>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>-120.545446,46.993938,0.0 -120.544352,46.994070,0.0 -120.543579,46.993865,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name/>
+				<Style>
+					<LineStyle>
+						<color>ff009900</color>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<ExtendedData>
+					<Data name="MARPLOT_ID">
+						<value>D19373EAA0FF0002</value>
+					</Data>
+					<Data name="NAME">
+						<value/>
+					</Data>
+				</ExtendedData>
+				<LineString>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>-120.542507,46.993865,0.0 -120.541412,46.994172,0.0 -120.540490,46.993777,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name/>
+				<Style>
+					<LineStyle>
+						<color>ff009900</color>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<ExtendedData>
+					<Data name="MARPLOT_ID">
+						<value>D19373F4A0FF0003</value>
+					</Data>
+					<Data name="NAME">
+						<value/>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<LineString>
+						<extrude>1</extrude>
+						<altitudeMode>clampedToGround</altitudeMode>
+						<tessellate>1</tessellate>
+						<coordinates>-120.544867,46.993133,0.0 -120.543773,46.993265,0.0 -120.543000,46.993060,0.0</coordinates>
+					</LineString>
+					<LineString>
+						<extrude>1</extrude>
+						<altitudeMode>clampedToGround</altitudeMode>
+						<tessellate>1</tessellate>
+						<coordinates>-120.541927,46.993060,0.0 -120.540833,46.993367,0.0 -120.539910,46.992972,0.0</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>clockwise</name>
+				<Style>
+					<LineStyle>
+						<color>ff000000</color>
+						<widt
